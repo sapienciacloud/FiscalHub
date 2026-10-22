@@ -1,0 +1,6 @@
+{
+  "name": "FiscalHub - Consulta & Gestão NF-e / NFC-e Nacional",
+  "description": "Sistema unificado de consulta nacional de NF-e e NFC-e com ou sem certificado digital, download de XMLs em lote, API REST para ERPs, conformidade fiscal e autenticação MFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
